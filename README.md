@@ -1,2 +1,2 @@
-# JustMyFans
-JustMyFans Landing page
+# JustMyFans Landing page
+## https://morqqulis.github.io/JustMyFans/
